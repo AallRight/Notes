@@ -28,7 +28,7 @@
 
 ## 代码笔记
 
-- 动态链接库
+- 动态链接库 [dll](https://github.com/AallRight/Github-operations/blob/main/%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5%E5%BA%93.md)
 
 
 ---
