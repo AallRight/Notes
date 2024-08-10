@@ -2,7 +2,7 @@
 ---
 ## 目录
 ---
-- github 
+- github [github 操作类](https://github.com/AallRight/Notes/blob/main/README.md#github-%E6%93%8D%E4%BD%9C%E7%B1%BB)
 - 代码
 - cv
 - 机器学习
