@@ -27,5 +27,11 @@
 ## cv笔记
 
 
+- cv
+- machine learning
+- deep learning
+- statistic learning
+
+
 
 
