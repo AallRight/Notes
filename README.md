@@ -7,6 +7,16 @@
 - cv [cv](https://github.com/AallRight/Notes?tab=readme-ov-file#cv%E7%AC%94%E8%AE%B0)
 - 机器学习
 - 通识课
+- 大一上
+  - 数学分析
+  - 线性代数
+  - 其他
+- 大一下
+- 大二上
+- 大二下
+- 大三上
+- 大三下
+- polyu
 
 ---
 
