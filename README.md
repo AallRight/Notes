@@ -43,5 +43,16 @@
 - statistic learning
 
 
+---
+
+## 小技巧
+
+- pdf反色，在控制台加上
+```
+javascript:void(document.documentElement.style.filter='invert(89%)')
+
+```
+
+
 
 
