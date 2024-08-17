@@ -52,7 +52,12 @@
 javascript:void(document.documentElement.style.filter='invert(89%)')
 
 ```
+## conda 
 
+- 启动
+```
+source ~/.bashrc
+```
 
 
 
