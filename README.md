@@ -59,5 +59,37 @@ javascript:void(document.documentElement.style.filter='invert(89%)')
 source ~/.bashrc
 ```
 
+## WSL
+
+- 压缩
+```
+wsl --shutdown
+```
+使用diskpart程序
+```
+diskpart
+```
+```
+select vdisk file="D:\wsl_ubuntu\ext4.vhdx"
+```
+压缩
+```
+compact vdisk
+```
+卸载磁盘
+```
+detach vdisk
+```
+
+- 导出虚拟机
+```
+wsl --export <version_name> <path.tar> \\d:\Ubuntu.tar
+
+wsl --unregister <version_name>
+
+wsl --import <version_name> <disk_path> <back_up_path>
+```
+
+
 
 
